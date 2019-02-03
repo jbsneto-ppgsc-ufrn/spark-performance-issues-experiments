@@ -1,0 +1,8 @@
+JoinQueryDifferentPartitioners
+JoinQuerySamePartitioners
+AggregationQueryGroupByKey
+AggregationQueryReduceByKey
+DistinctUserVisitsPerPageReduceByKey
+DistinctUserVisitsPerPageAggregateByKey
+ScanQueryRepartition
+ScanQueryCoalesce
