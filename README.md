@@ -1,4 +1,4 @@
-# Experiments of the paper "A Taxonomy of Performance Issues for Apache Spark"
+# Experiments of the paper "An experimental study on design and configuration issues of Spark programs and their impact on performance"
 
 * [AMPLab-Big-Data-Benchmark-Experiments](https://github.com/jbsneto-ppgsc-ufrn/spark-performance-issues-experiments/tree/master/AMPLab-Big-Data-Benchmark-Experiments)
  	* Experiments using the [AMPLab Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/) Datasets 
